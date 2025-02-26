@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="nbcu" data-provider-thread-count="1" >
+  <test name="regression">
+    <classes>
+      <class name="nbcu.framework.runner.RunCucumberTest"/>
+      <!-- <class name="nbcu.framework.runner.RerunCucumberTest"/> -->
+    </classes>
+  </test>
+</suite>

@@ -1,0 +1,162 @@
+{
+  "cc": "",
+  "otherDivision": "",
+  "workOrder": "",
+  "studioType": "", 
+  "unifiedRequestId": "",
+  "seniorProducer": "",
+  "seniorProducerKey": "",
+  "requestorContact": "",
+  "requestorEmail": "jeevanandham.r@nbcuni.com",
+  "requestorKey": "jeevanandham.r@nbcuni.com",
+  "requestorName": "R, Jeevanandham",
+  "requestComplete": true,
+  "loggedInUser": null,
+  "anchorOrHostOrGuestName": null,
+  "isRequestorProducer": "No",
+  "producerKey": "jeevanandham.r@nbcuni.com",
+  "producerName": "",
+  "studioControlRoom": [
+    {
+      "controlRoom": "",
+      "specificControlRoom": "",
+      "otherControlRoom": "",
+      "fieldAddress": ""
+    }
+  ],
+  "locOtherstxt": "",
+  "crOtherstxt": "",
+  "created": 1710073969.089,
+  "studioRequestStatus": "NEW",
+  "requesterEmail": "jeevanandham.r@nbcuni.com",
+  "cellPhone": "",
+  "client": "R, Jeevanandham",
+  "fulfillmentEmailNo": 0,
+  "ackIngestStatus": {
+    "name": "",
+    "position": "",
+    "revisedDate": 0
+  },
+  "ackTPSStatus": {
+    "name": "",
+    "position": "",
+    "revisedDate": 0
+  },
+  "ackHairStatus": {
+    "name": "",
+    "position": "",
+    "revisedDate": 0
+  },
+  "ackPlayoutStatus": {
+    "name": "",
+    "position": "",
+    "revisedDate": 0
+  },
+  "ackStagingStatus": {
+    "name": "",
+    "position": "",
+    "revisedDate": 0
+  },
+  "ackTechnicalStatus": {
+    "name": "",
+    "position": "",
+    "revisedDate": 0
+  },
+  "acknowledgedStatus": {
+    "name": "",
+    "position": "",
+    "revisedDate": 0
+  },
+  "acknowledgedBy": null,
+  "ackTechnicalBy": null,
+  "slug": "",
+  "storyName": "",
+  "storySlugID": "",
+  "division": "",
+  "subDivision": "",
+  "requesters": [
+    {
+      "displayName": "R, Jeevanandham",
+      "emailId": "jeevanandham.r@nbcuni.com",
+      "jobTitle": "QA Engineer",
+      "ssoId": 206711859,
+      "workPhone": ""
+    },
+    {
+      "displayName": "Peddina, Sainath",
+      "emailId": "sainath.peddina@nbcuni.com",
+      "jobTitle": "Quality Assurance",
+      "ssoId": "206736124",
+      "workPhone": ""
+    }
+  ],
+  "talent": [],
+  "productionPurpose": "Live Show",
+  "detailsAndNotes": null,
+  "airPlatform": "OTT",
+  "showunit": [
+    {
+      "showunittitle": "Power Lunch",
+      "otherShowunittitle": null,
+      "budgetCode": "T-PWLN2021.J047"
+    }
+  ],
+  "startDates": {
+    "startDate": 1710073881.806,
+    "prepStartTime": null,
+    "prodStartTime": 1710095100,
+    "endTime": 1710073921
+  },
+  "studioLocation": [
+    {
+      "location": "EC",
+      "setLocation": null,
+      "otherSetLocation": "",
+      "setBackground": "",
+      "otherSetBackground": "",
+      "fieldAddress": ""
+    }
+  ],
+  "audioProdA2": [
+    ""
+  ],
+  "camOpJIB": [],
+  "camOpPed": [],
+  "camStediCam": [],
+  "cloudSwitchOperator": [],
+  "flashCam": [],
+  "lightingDirector": [],
+  "productionPlayout": [],
+  "playout": [],
+  "prompter": [],
+  "ptzOperator": [],
+  "stageAssistant": [],
+  "stageManager": [],
+  "technicalproducer": [],
+  "utility": [],
+  "vidRobo": [],
+  "studioTd": [],
+  "hairStylist": [],
+  "makeupArtist": [],
+  "locOthers": null,
+  "stagingNeeded": false,
+  "stagingNeedsDesc": null,
+  "controlRoomNeeded": false,
+  "ingest": null,
+  "iso": null,
+  "associateDirector": [],
+  "audioA1": [],
+  "audioProtools": [],
+  "chyron": [],
+  "director": [],
+  "rossExpressionDirector": [],
+  "technicalDirector": [],
+  "tps": [],
+  "crOthers": null,
+  "ackStagingBy": "NA",
+  "ackPlayoutBy": "NA",
+  "ackHairBy": "NA",
+  "ackTPSBy": "NA",
+  "ackIngestBy": "NA",
+  "doNotSendmail": false
+}
